@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anant-ram395/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/anant-ram395/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anant-ram395/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anant-ram395/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anant-ram395/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anant-ram395/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/anant-ram395/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anant-ram395/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anant-ram395/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anant-ram395/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -28,5 +30,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/anant-ram395/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anant-ram395/leetcode_solutions/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/anant-ram395/leetcode_solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
