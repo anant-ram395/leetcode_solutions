@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anant-ram395/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/anant-ram395/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anant-ram395/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/anant-ram395/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anant-ram395/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anant-ram395/leetcode_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/anant-ram395/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/anant-ram395/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anant-ram395/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/anant-ram395/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/anant-ram395/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
