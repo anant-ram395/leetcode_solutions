@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anant-ram395/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/anant-ram395/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/anant-ram395/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0739-daily-temperatures](https://github.com/anant-ram395/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/anant-ram395/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/anant-ram395/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/anant-ram395/leetcode_solutions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/anant-ram395/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/anant-ram395/leetcode_solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/anant-ram395/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/anant-ram395/leetcode_solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
